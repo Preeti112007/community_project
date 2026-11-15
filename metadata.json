@@ -1,0 +1,6 @@
+{
+  "name": "GreenKisan - Crop Advisory",
+  "description": "A digital guide for safe pesticide usage, crop advisory, pest management, soil health, and organic agriculture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
